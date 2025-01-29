@@ -1,0 +1,6 @@
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\SampleLibrary\bin\Debug\SampleLibrary.dll
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\SampleLibrary\bin\Debug\SampleLibrary.pdb
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\SampleLibrary\obj\Debug\SampleLibrary.csproj.AssemblyReference.cache
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\SampleLibrary\obj\Debug\SampleLibrary.csproj.CoreCompileInputs.cache
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\SampleLibrary\obj\Debug\SampleLibrary.dll
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\SampleLibrary\obj\Debug\SampleLibrary.pdb

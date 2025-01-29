@@ -1,0 +1,7 @@
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\Sample_3\bin\Debug\Sample_3.exe.config
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\Sample_3\bin\Debug\Sample_3.exe
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\Sample_3\bin\Debug\Sample_3.pdb
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\Sample_3\obj\Debug\Sample_3.csproj.AssemblyReference.cache
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\Sample_3\obj\Debug\Sample_3.csproj.CoreCompileInputs.cache
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\Sample_3\obj\Debug\Sample_3.exe
+D:\Системное программирование\MVS проекты - примеры\2 Процессы\Sample_3\Sample_3\obj\Debug\Sample_3.pdb
