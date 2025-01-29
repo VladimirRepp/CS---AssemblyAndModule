@@ -3,6 +3,7 @@ Example of using Assembly And Module
 
 Using:
 - C#
+- C# Class Library 
 - .Net Framework
 - Console
 
