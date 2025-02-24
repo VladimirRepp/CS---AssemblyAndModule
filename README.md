@@ -6,6 +6,7 @@ Using:
 - C# Class Library 
 - .Net Framework
 - Console
+- IDE: MVS 2022
 
 Example: 
 
